@@ -2,7 +2,7 @@
 - 👀 I’m interested in engineering, science, sports.
 - 🌱 I’m currently learning anything.
 - 💞️ I’m looking to collaborate on elemnus 
-- 📫 How to reach me slack: @AER Shaheen,  email at abdelrahman.shaheen@elemnus.com or my mobile: +201005859741(important calls only).
+- 📫 How to reach me slack: @AER Shaheen,  email at abdelrahman.shaheen@elemnus.com or my mobile: +201005859741.
 
 <!---
 aer4elmenus/aer4elmenus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
